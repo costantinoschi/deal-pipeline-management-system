@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Acme Corp",
+        "stage": "sourcing",
+        "notes": "Initial contact made."
+    },
+    {
+        "id": 2,
+        "name": "Globex Inc",
+        "stage": "due_diligence",
+        "notes": "Financials under review."
+    },
+    {
+        "id": 3,
+        "name": "Initech LLC",
+        "stage": "closed",
+        "notes": "Deal successfully closed."
+    }
+]

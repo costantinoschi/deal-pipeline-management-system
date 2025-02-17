@@ -1,0 +1,33 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore data and output folders (if they contain sensitive or large files)
+data/
+outputs/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore frontend build files
+frontend/build/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local configuration files
+*.env
+*.local
+
+# Ignore macOS system files
+.DS_Store
